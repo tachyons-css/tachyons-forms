@@ -8,6 +8,16 @@ npm install --save-dev tachyons-forms
 ```
 or download the css on github and include in your project.
 
+## The Code
+```
+
+/* Forms */
+
+.input {
+   outline:0;
+   border: 1px solid $silver;
+```}
+
 ## Author
 
 [http://mrmrs.cc - Entire internet gateway to all things mrmrs](http://mrmrs.cc)
