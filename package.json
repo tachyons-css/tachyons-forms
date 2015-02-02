@@ -1,12 +1,12 @@
 {
   "name": "tachyons-forms",
   "version": "0.2.2",
-  "style": "forms.css",
-  "homepage": "http://mrmrs.io/tachyons-forms",
-  "description": "Performance based sass module.",
+  "style": "tachyons-forms.css",
+  "homepage": "http://github.com/mrmrs/tachyons-forms",
+  "description": "Performance based css module.",
   "keywords": [
     "oocss",
-    "sass",
+    "css",
     "css",
     "rwd",
     "design",
