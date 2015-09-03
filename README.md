@@ -1,24 +1,39 @@
-# TACHYONS-FORMS
+# tachyons-forms
+1.1.0
 
-http://tachyons.io
-
-Work In Progress. Pull requests and open issues welcome.
+Performance based css module.
 
 ## Install
 ```
 npm install --save-dev tachyons-forms
 ```
-or download the css on github and include in your project.
+
+or download the css on github and include in your project:
+
+```
+git clone git@github.com:mrmrs/tachyons-forms
+```
 
 ## The Code
 ```
+/*
 
-/* Forms */
+   FORMS
 
-.input {
-   outline:0;
-   border: 1px solid $silver;
-```}
+*/
+
+.input-text {
+  outline: 0;
+  border: 1px solid #999;
+}
+
+.input-invisible {
+  outline: 0;
+  border: 0;
+}
+
+
+```
 
 ## Author
 
