@@ -3,14 +3,6 @@
    FORMS
 
 */
-
-.input-text {
-  outline: 0;
-  border: 1px solid #999;
-}
-
-.input-invisible {
-  outline: 0;
-  border: 0;
-}
+.input-reset { -webkit-appearance: none; -moz-appearance: none; }
+.input-invisible { outline: 0; border: 0; }
 
