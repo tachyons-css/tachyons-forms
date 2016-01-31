@@ -2,15 +2,21 @@
   "name": "tachyons-forms",
   "version": "1.1.0",
   "style": "tachyons-forms.css",
-  "homepage": "http://github.com/mrmrs/tachyons-forms",
+  "homepage": "http://github.com/tachyons-forms/tachyons-forms",
   "description": "Performance based css module.",
-  "keywords": [],
+  "keywords": [
+    "tachyons",
+    "tachyons-css",
+    "css",
+    "forms",
+    "design"
+  ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mrmrs/tachyons-forms.git"
+    "url": "http://github.com/tachyons-css/tachyons-forms.git"
   },
   "bugs": {
-    "url": "https://github.com/mrmrs/tachyons-forms/issues",
+    "url": "https://github.com/tachyons-css/tachyons-forms/issues",
     "email": "hi@mrmrs.cc"
   },
   "author": {
