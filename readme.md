@@ -1,4 +1,4 @@
-# tachyons-forms 1.1.0
+# tachyons-forms 2.0.1
 
 Performance based css module.
 
