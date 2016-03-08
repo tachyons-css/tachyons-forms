@@ -4,7 +4,7 @@ Performance based css module.
 
 #### Stats
 
-117 | 2 | 4
+86 | 1 | 2
 ---|---|---
 bytes | selectors | declarations
 
@@ -62,7 +62,6 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 
 */
 .input-reset { -webkit-appearance: none; -moz-appearance: none; }
-.input-invisible { outline: 0; border: 0; }
 ```
 
 ## Contributing
