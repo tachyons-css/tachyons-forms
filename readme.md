@@ -1,10 +1,10 @@
-# tachyons-forms 3.0.4
+# tachyons-forms 3.0.5
 
 Performance based css module.
 
 #### Stats
 
-86 | 1 | 2
+138 | 3 | 4
 ---|---|---
 bytes | selectors | declarations
 
@@ -55,7 +55,7 @@ $ tachyons path/to/css-file.css > dist/t.css
 The easiest and most simple way to use the css is to use the cdn hosted version. Include it in the head of your html with:
 
 ```
-<link rel="stylesheet" href="http://npmcdn.com/tachyons-forms@3.0.4/css/tachyons-forms.min.css" />
+<link rel="stylesheet" href="http://npmcdn.com/tachyons-forms@3.0.5/css/tachyons-forms.min.css" />
 ```
 
 ##### Locally
@@ -77,9 +77,10 @@ Running `$ npm start` will process the source CSS and place the built CSS in the
 /*
 
    FORMS
-
+   
 */
 .input-reset { -webkit-appearance: none; -moz-appearance: none; }
+.button-reset::-moz-focus-inner, .input-reset::-moz-focus-inner { border: 0; padding: 0; }
 ```
 
 ## Contributing
